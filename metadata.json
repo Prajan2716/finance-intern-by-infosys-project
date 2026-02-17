@@ -1,0 +1,9 @@
+
+{
+  "name": "InsureAI - Smart Insurance Portal",
+  "description": "A comprehensive insurance management platform featuring AI-powered claims processing, visual damage estimation, and personalized coverage insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
